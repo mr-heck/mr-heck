@@ -9,7 +9,7 @@
 I'm a Computer Science Engineering student passionate about game development, game design, pixel art, and interactive storytelling.
 I enjoy creating playable experiences in Unity, experimenting with game mechanics, and bringing ideas to life through art and code.
 
-Currently learning:
+Currently exploring:
 - Unity
 - C#
 - Blender
