@@ -1,7 +1,7 @@
 # Hi, I'm Abhishek Kulkarni 
 
- Game Developer | Unity & C#
- Pixel Artist & Blender User
+ Game Developer | Unity & C# |
+ Pixel Artist & Blender User |
  Creating worlds worth exploring
  
 ## About Me
